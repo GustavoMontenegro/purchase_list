@@ -20,6 +20,7 @@
 		549A343D473136BE19534A44 /* libPods-purchase_list.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D67938DEDEDEC3FBBDB6AE8E /* libPods-purchase_list.a */; };
 		6A05F4D5D484D2CD21056A28 /* libPods-purchase_list-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E4F0B0BDF82224D351D2F181 /* libPods-purchase_list-tvOSTests.a */; };
 		C8CB82B3D1B7756C360DEBBF /* libPods-purchase_list-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = DF5B6F007A65143BB0D1A2DD /* libPods-purchase_list-tvOS.a */; };
+		CB3D6345239B1A75009BE575 /* fonts in Resources */ = {isa = PBXBuildFile; fileRef = CB3D6344239B1A75009BE575 /* fonts */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -59,6 +60,7 @@
 		772389EA48F10AD528387E2A /* Pods-purchase_list-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-purchase_list-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-purchase_list-tvOSTests/Pods-purchase_list-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		88436CC7E915E8D40ACBACFB /* Pods-purchase_list-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-purchase_list-tvOS.release.xcconfig"; path = "Target Support Files/Pods-purchase_list-tvOS/Pods-purchase_list-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		9B212FE536C2F60BB6A30132 /* Pods-purchase_list-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-purchase_list-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-purchase_list-tvOSTests/Pods-purchase_list-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		CB3D6344239B1A75009BE575 /* fonts */ = {isa = PBXFileReference; lastKnownFileType = folder; path = fonts; sourceTree = "<group>"; };
 		CDBD1866993952B7CD6AC82A /* Pods-purchase_listTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-purchase_listTests.release.xcconfig"; path = "Target Support Files/Pods-purchase_listTests/Pods-purchase_listTests.release.xcconfig"; sourceTree = "<group>"; };
 		D20CD67B883B5CDCCFCA2560 /* Pods-purchase_list.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-purchase_list.debug.xcconfig"; path = "Target Support Files/Pods-purchase_list/Pods-purchase_list.debug.xcconfig"; sourceTree = "<group>"; };
 		D67938DEDEDEC3FBBDB6AE8E /* libPods-purchase_list.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-purchase_list.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -148,7 +150,6 @@
 				1EA0C058293907E760531DE5 /* Pods-purchase_listTests.debug.xcconfig */,
 				CDBD1866993952B7CD6AC82A /* Pods-purchase_listTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
 		};
@@ -175,6 +176,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				CB3D6344239B1A75009BE575 /* fonts */,
 				13B07FAE1A68108700A75B9A /* purchase_list */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* purchase_listTests */,
@@ -292,6 +294,9 @@
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
+					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 6BJ93GJU4K;
+					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
@@ -308,6 +313,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 				Base,
 			);
@@ -336,6 +342,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CB3D6345239B1A75009BE575 /* fonts in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 			);
@@ -628,6 +635,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = 6BJ93GJU4K;
 				INFOPLIST_FILE = purchase_list/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -635,7 +643,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.purchase-list";
 				PRODUCT_NAME = purchase_list;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -647,6 +655,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 6BJ93GJU4K;
 				INFOPLIST_FILE = purchase_list/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -654,7 +663,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "br.com.purchase-list";
 				PRODUCT_NAME = purchase_list;
 				VERSIONING_SYSTEM = "apple-generic";
 			};

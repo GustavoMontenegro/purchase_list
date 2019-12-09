@@ -9,10 +9,6 @@ const app = axios.create({
   baseURL: `${URL_HOST}`
 });
 
-// const auth = axios.create({
-//   baseURL: `${URL_BASE}/oauth/access-token/`
-// });
-
 app.interceptors.request.use(
   config => {
     const state = store.getState();

@@ -2,11 +2,12 @@ import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components/native';
 
-import { TYPOGRAPHY } from '../../config/typography';
-import { COLORS } from '../../config/colors';
+import TYPOGRAPHY from '../../config/typography';
+import COLORS from '../../config/colors';
 
 // TODO: Still needs to allow the usage of a different set of font-family
 const Label = props => {
+  console.tron.log({TYPOGRAPHY});
   return <StyledLabel {...props}>{props.children}</StyledLabel>;
 };
 
