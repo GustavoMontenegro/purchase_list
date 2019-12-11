@@ -1,4 +1,4 @@
-#Sat Dec 07 14:17:32 BRST 2019
+#Mon Dec 09 21:53:29 BRST 2019
 base.0=/Users/montenegro/Documents/repositorio/handOn/purchase_list/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex

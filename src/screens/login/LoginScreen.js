@@ -1,14 +1,14 @@
 import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
-import { withNavigation } from 'react-navigation';
 import { SafeAreaView } from 'react-native';
 
 import StyledButton from '../../components/modules/StyledButton';
 
+import Label from '../../components/core/Label';
+
 import { COLORS, STRINGS } from '../../config';
 
-import Container from './style';
-import ContainerButton from './style';
+import {Container, ContainerButton} from './style';
 
 const LoginScreen = ({ navigation }) => {
   const [isLogin, setIsLogin] = useState(false);
@@ -19,17 +19,14 @@ const LoginScreen = ({ navigation }) => {
     }
   };
 
-  const reset = () => {
-    setIsLogin(false);
-  };
-
   return (
     <>
-      <SafeAreaView style={{ backgroundColor: COLORS.darkerPrimary }} />
+      <SafeAreaView />
       <Container>
+        <Label color={COLORS.primary} fontWeight={600}>Lista de compras</Label>
         <ContainerButton>
           <StyledButton
-            isLoading={isLoading}
+            isLoading={false}
             backgroundColor={COLORS.primary}
             onPress={() => login()}
             borderColor={COLORS.white}
@@ -44,4 +41,4 @@ const LoginScreen = ({ navigation }) => {
   );
 };
 
-export default withNavigation(LoginScreen);
+export default LoginScreen;

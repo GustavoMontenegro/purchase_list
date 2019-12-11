@@ -4,17 +4,7 @@
             "outputFile": "/Users/montenegro/Documents/repositorio/handOn/purchase_list/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/f3884e59871534ee11adc97c8bf78e7f/res/values-v16/values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/6093d12521ec43bed5731b073da7a85d/res/values-v16/values-v16.xml",
+                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

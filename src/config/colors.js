@@ -1,34 +1,26 @@
-export const COLORS = {
-    
+const COLORS = {
     black: '#000000',
     white: '#FFFFFF',
-    blue: '#4a90e2',
-    primary: '#4a90e2',
-    primaryWithoutAlpha: 'rgba(55, 119, 188, 0.9)',
-    darkerPrimary: '#3777bc',
-    lightPrimary: '#C8DDF6',
+    primary: '#009688',
+    darkerPrimary: '#004d40',
+    lightPrimary: '#e0f2f1',
     details: '#EDEFEF',
     orange: '#F19424',
     darkerOrange: '#dd7133',
     yellow: '#F9B916',
     modal: '#dadada',
 
-    background: '#FEFEFE',
-    darkerBackground: '#EDEFEF',
-    greyBackground: '#F7F7F7',
-    darkerGreyBackground: 'rgba(201,201,201,0.2)',
-    overlayBackground: 'rgba(0,0,0,0.6)',
-    blueLightBackground: '#f5f7fa',
-    menuBackgroundGradientStart: '#5F92C9',
-    menuBackgroundGradientEnd: '#3777BC',
-    menuCategoryBackground: '#6696CA',
-    menuItemBackground: '#3E73AD',
-    volumeTotal: '#e5e5e5',
-    modalColor: '#7F7F7F',
+    background: '#e0f2f1',
+    menuBackgroundGradientStart: '#26a69a',
+    menuBackgroundGradientEnd: '#009688',
+    menuCategoryBackground: '#00897b',
+    menuItemBackground: '#00796b',
 
     defaultText: '#4C4C4C',
     headerTitle: '#7F7F7F',
     secondaryText: '#B2B2B2',
     lightText: '#D0D5DA',
-    lightInput: '#F5F7FA',    
+    lightInput: '#F5F7FA'    
 }
+
+export default COLORS;

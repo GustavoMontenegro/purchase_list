@@ -5,10 +5,11 @@ import SplashScreen from 'react-native-splash-screen';
 import styled from 'styled-components';
 import moment from 'moment';
 
-import { createStackNavigator, createAppContainer, NavigationActions } from 'react-navigation';
+import { createStackNavigator } from 'react-navigation-stack';
+import { createAppContainer, NavigationActions } from 'react-navigation';
 
 import StackIntroRoute from './src/config/routes';
-import COLORS from './src/config/colors';
+import { COLORS } from './src/config';
 
 import { setStatusBar } from './src/utils/help';
 import store from './src/config/store';

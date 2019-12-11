@@ -17,7 +17,7 @@ const StyledButton = ({ isLoading, onPress, color, children, borderColor, backgr
       borderWidth={borderWidth}
     >
       {isLoading ? (
-        <ActivityIndicator size="small" color={COLORS.white} />
+        <ActivityIndicator size="small" /*color={COLORS.white}*/ />
       ) : (
         <Label disabled={disabled} typography={TYPOGRAPHY.mediumText} color={color}>
           {children}
@@ -40,10 +40,10 @@ StyledButton.propTypes = {
 StyledButton.defaultProps = {
   isLoading: false,
   onPress: () => {},
-  backgroundColor: COLORS.grayBackground,
+  // backgroundColor: COLORS.grayBackground,
   borderWidth: 0,
-  borderColor: COLORS.defaultText,
-  color: COLORS.white
+  // borderColor: COLORS.defaultText,
+  // color: COLORS.white
 };
 
 const StyledTouchableOpacity = styled.TouchableOpacity`
@@ -58,7 +58,7 @@ const StyledTouchableOpacity = styled.TouchableOpacity`
   border-radius: 5;
   margin-top: ${SPACING.default};
   margin-bottom: ${SPACING.default};
-  box-shadow: ${props => (props.noShadow ? '0px 0px 0px transparent' : `1px 1px 5px ${COLORS.primary}20`)};
+  /* box-shadow: ${props => (props.noShadow ? '0px 0px 0px transparent' : `1px 1px 5px ${COLORS.primary}20`)}; */
   elevation: ${props => (props.noShadow ? 0 : 1)};
 `;
 
