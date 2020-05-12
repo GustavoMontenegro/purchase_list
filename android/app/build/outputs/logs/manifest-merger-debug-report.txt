@@ -1,19 +1,21 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-MERGED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
-MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/6df5ed5e1e640b0379802d19f1db82fe/AndroidManifest.xml:2:1-13:12
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:2:1-13:12
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:17:1-24:12
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b38cf56b4b98478e0f801640d8c81c67/AndroidManifest.xml:2:1-11:12
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/44286fbfba6b27a20a2dd781ed6daba3/AndroidManifest.xml:2:1-9:12
 MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8f35d25d318e62f86a2d098b7ba1a2fc/AndroidManifest.xml:2:1-9:12
@@ -42,57 +44,57 @@ MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/montenegro/.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d67d33b6fa8d06d3114fbab35c21a597/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/77cf5decac99c73fefc2819de97c56e6/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b157befcb5972180634d79e5addd8af9/AndroidManifest.xml:2:1-9:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 	package
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:2:3-30
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:2:3-30
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:2:3-30
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:3:5-51
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:4:5-67
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:4:5-67
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:4:22-64
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:5:5-81
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:5:22-78
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:5:22-78
 uses-permission#android.permission.VIBRATE
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:6:5-66
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:6:22-63
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:6:22-63
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
-MERGED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:7:5-77
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:7:22-75
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:7:22-75
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:8:5-81
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:8:5-81
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:8:22-78
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/6df5ed5e1e640b0379802d19f1db82fe/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/6df5ed5e1e640b0379802d19f1db82fe/AndroidManifest.xml:11:5-20
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
+MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:11:5-20
 MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:11:5-20
 MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:24:5-89
@@ -102,75 +104,79 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
 	tools:ignore
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:7:75-114
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:7:75-114
 	android:roundIcon
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:14:7-52
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:14:7-52
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:14:7-52
 	tools:targetApi
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:7:54-74
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:7:54-74
 	android:icon
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:13:7-41
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:13:7-41
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:13:7-41
 	android:allowBackup
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:15:7-34
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:15:7-34
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:15:7-34
 	android:theme
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:16:7-38
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:16:7-38
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:16:7-38
 	android:usesCleartextTraffic
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml:7:18-53
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:7:18-53
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
 activity#com.purchase_list.MainActivity
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:17:7-26:18
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:17:7-26:18
 	android:label
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:19:9-41
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:19:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:21:9-51
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:21:9-51
 	android:configChanges
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:20:9-79
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:20:9-79
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:18:9-37
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:18:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:22:9-25:25
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:22:9-25:25
 action#android.intent.action.MAIN
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:23:13-65
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:23:13-65
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:23:21-62
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:23:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:24:13-73
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:13-73
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:24:23-70
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:27:7-84
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:27:7-84
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml:27:17-81
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:27:17-81
 uses-sdk
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/6df5ed5e1e640b0379802d19f1db82fe/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/6df5ed5e1e640b0379802d19f1db82fe/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:7:5-9:41
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:20:5-22:41
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b38cf56b4b98478e0f801640d8c81c67/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b38cf56b4b98478e0f801640d8c81c67/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:5:5-7:41
 MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/44286fbfba6b27a20a2dd781ed6daba3/AndroidManifest.xml:5:5-7:41
@@ -227,13 +233,13 @@ MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/77cf5decac99c73fefc2819de97c56e6/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b157befcb5972180634d79e5addd8af9/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b157befcb5972180634d79e5addd8af9/AndroidManifest.xml:5:5-7:41
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/montenegro/Documents/repo/purchase_list/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml

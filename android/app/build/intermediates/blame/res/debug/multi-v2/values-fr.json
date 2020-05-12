@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/montenegro/Documents/repo/purchase_list/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
+            "outputFile": "/Users/montenegro/Documents/repo/lab/purchase_list/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-fr/values-fr.xml",
             "map": [
                 {
                     "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/res/values-fr/values-fr.xml",

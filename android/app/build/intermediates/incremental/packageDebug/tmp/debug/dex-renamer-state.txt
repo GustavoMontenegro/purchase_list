@@ -1,4 +1,4 @@
-#Sun Mar 22 16:06:17 BRT 2020
-base.0=/Users/montenegro/Documents/repo/purchase_list/android/app/build/intermediates/transforms/dexMerger/debug/0
+#Tue May 12 13:27:58 BRT 2020
+base.0=/Users/montenegro/Documents/repo/lab/purchase_list/android/app/build/intermediates/transforms/dexMerger/debug/0
 renamed.0=classes.dex
 path.0=classes.dex
