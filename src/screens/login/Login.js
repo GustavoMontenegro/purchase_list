@@ -10,7 +10,7 @@ import {COLORS, STRINGS} from '../../config';
 
 import {Container, ContainerButton} from './style';
 
-const LoginScreen = ({navigation}) => {
+const LoginScreen = () => {
   const [isLogin, setIsLogin] = useState(false);
 
   const login = () => {

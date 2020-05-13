@@ -1,26 +1,34 @@
 module.exports = {
-  root: true,
-  extends: [
-    '@react-native-community',
-    'airbnb',
-    'prettier',
-    'prettier/react',
-    'plugin:react/recommended',
-  ],
-  parserOptions: {
-    ecmaFeatures: {
-      jsx: true,
-    },
-    ecmaVersion: 2018,
-    sourceType: 'module',
+  parser: 'babel-eslint',
+  extends: ['airbnb', 'plugin:prettier/recommended', 'prettier/react'],
+  plugins: ['react', 'prettier', 'react-hooks'],
+  globals: {
+    __DEV__: true,
+    fetch: false,
   },
-  plugins: ['react', 'react-hooks', 'import', 'jsx-a11y'],
+  env: {
+    jest: true,
+  },
   rules: {
-    'react/jsx-filename-extension': ['error', {extensions: ['.js', '.json']}],
-    'react/prop-types': ['error', {ignore: ['navigation']}],
-    'import/no-extraneous-dependencies': ['error', {packageDir: './'}],
+    'comma-dangle': 'off',
+    'react/jsx-filename-extension': [1, {extensions: ['.js', '.jsx']}],
     'import/prefer-default-export': 'off',
+    'react/jsx-one-expression-per-line': 'off',
+    'react/prop-types': ['error', {ignore: ['navigation']}],
+    'react/state-in-constructor': 'off',
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'warn',
+    'import/order': [
+      'error',
+      {
+        groups: ['external', ['internal', 'sibling']],
+      },
+    ],
+    strict: 0,
+    settings: {
+      'import/resolver': {
+        'babel-module': {},
+      },
+    },
   },
 };
