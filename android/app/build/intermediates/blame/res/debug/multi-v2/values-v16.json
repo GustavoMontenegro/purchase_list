@@ -4,7 +4,7 @@
             "outputFile": "/Users/montenegro/Documents/repo/lab/purchase_list/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/res/values-v16/values-v16.xml",
+                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/res/values-v16/values-v16.xml",
+                    "source": "/Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/res/values-v16/values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

@@ -1,26 +1,31 @@
-import { Dimensions } from 'react-native';
-import { createDrawerNavigator } from 'react-navigation-drawer';
+import React, {useLayoutEffect, useState} from 'react';
 
-import LoginScreen from '../screens/login/LoginScreen';
+import {NavigationContainer} from '@react-navigation/native';
+import {createStackNavigator} from '@react-navigation/stack';
 
-// import COLORS from './colors';
+// import {getStoreItem} from '../store';
 
-const { width } = Dimensions.get('window');
+import {LoginScreen} from '../screens/login';
 
-const DrawerMainRoute = createDrawerNavigator(
-  {
-    Login: { screen: LoginScreen },
-  },
-  {
-    initialRouteName: 'Login',
-    drawerType: 'slide',
-    drawerWidth: width * 0.95,
-  }
-);
+const Stack = createStackNavigator();
 
-const routes = {
-  MainRoute: { screen: DrawerMainRoute },
-  Login: { screen: LoginScreen }
+const Navigator = () => {
+  // const [initialRoute, setInitialRoute] = useState('');
+
+  useLayoutEffect(() => {
+    // getStoreItem('@BeSafe:TermAgreed', termAccepted => {
+    //   setInitialRoute(termAccepted === 'true' ? 'Onboarding' : 'Profile');
+    // });
+  }, []);
+
+  // if (!initialRoute) return null;
+  return (
+    <NavigationContainer>
+      <Stack.Navigator headerMode="none" initialRouteName={LoginScreen}>
+        <Stack.Screen name="Login" component={LoginScreen} />
+      </Stack.Navigator>
+    </NavigationContainer>
+  );
 };
 
-export default routes;
+export default Navigator;

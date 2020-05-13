@@ -1,50 +1,57 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
-MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
+INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:8:1-18:12
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fa9d249d56579007dba70f8ee4dd5b3f/flipper-network-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5a1065d4748ae359265a740b2069d44b/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:8:1-15:12
+MERGED from [:react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-14:12
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:17:1-24:12
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:2:1-11:12
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/44286fbfba6b27a20a2dd781ed6daba3/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8f35d25d318e62f86a2d098b7ba1a2fc/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/26416f5a8bd088b05abd7e5fd5e87fd1/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/591ef3b14603cac5f1f947bb92f3a42d/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/16a6101178d86717b9a006cd9cb22667/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e02b88c863874780440a98b6aee3ab37/AndroidManifest.xml:2:1-9:12
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:2:1-13:12
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a037475c34e657e97e2e3558abd3c7ca/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b884848f76813440716214cb0f5e6dcc/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c60e37f28dd33a924457a2f5fcae374e/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e8535dc163ec977e3412a79302db0e26/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/84218679209338136ccd7e0618caabe5/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5efb7c6e4593fbba73ae431dc22b7495/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b4a4c33b1678ed121f0816569e7445a/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f37f421938a2e9649dde58c17db2b622/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9e12498f4a6598f7b9502c53ec524c49/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c1138d6916f1dd90d56dce9461b20eaf/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:17:1-26:12
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/549f58c4224b62b1e348b29436e1fc67/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f34e09c77e598d7e5e01a879648dbf57/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8e0d7a499e1f93ca77faef3c78c91493/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d8d8bfa153e7a4f96a50185cbc27018/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2450f77a7f0581991f054c6a9efd81fd/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/7e17c22e2c4b2d59b5565ce85569bc7c/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d67d33b6fa8d06d3114fbab35c21a597/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/77cf5decac99c73fefc2819de97c56e6/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:17:1-22:12
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/25a6f27b8feef31e45bfef4257cf18c6/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/27581b0862bfc01f4eb68af799b0f2c6/android-jsc-r241213/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c180792e3f393fe4453d9c695595b3ef/flipper-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/14649b8b71802f359f24d4f29dd55d6b/stetho-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a682a4f61b53a5eb0b34ff17728f4b20/soloader-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/30b4d3e32d4613db5b24cec227d0fa01/transition-1.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b61b63ea7b0488553940d8a5bbdd3f9b/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a42cfa4562601129ccc7d984c26754fb/activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e7c5bbbd3975418b74df0318d1b48a49/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/37c30db51a64ba69e51eccc8e298ccb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5452ab2653c10563317c373b5ac36def/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:2:1-8:12
@@ -55,18 +62,20 @@ INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	android:versionName
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-30:12
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:1-31:12
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-permission#android.permission.INTERNET
 ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:15:5-67
 	android:name
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:4:22-64
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
@@ -88,21 +97,25 @@ ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/ma
 	android:name
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:8:22-78
 application
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
-MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-28:19
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:10:5-29:19
+MERGED from [:react-native-community_datetimepicker] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-20
 MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
 MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-12:19
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:11:5-20
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:11:5-20
-MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:24:5-89
-MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:24:5-89
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8e0d7a499e1f93ca77faef3c78c91493/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8e0d7a499e1f93ca77faef3c78c91493/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/25a6f27b8feef31e45bfef4257cf18c6/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/25a6f27b8feef31e45bfef4257cf18c6/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a682a4f61b53a5eb0b34ff17728f4b20/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a682a4f61b53a5eb0b34ff17728f4b20/soloader-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:24:18-86
+		ADDED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:24:18-86
 	android:label
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:12:7-39
@@ -128,37 +141,47 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:11:7-38
 activity#com.purchase_list.MainActivity
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:17:7-26:18
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:17:7-27:18
 	android:label
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:19:9-41
+	android:launchMode
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:21:8-39
 	android:windowSoftInputMode
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:21:9-51
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:22:9-51
 	android:configChanges
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:20:9-79
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:20:9-86
 	android:name
 		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:18:9-37
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:22:9-25:25
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:23:9-26:25
 action#android.intent.action.MAIN
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:23:13-65
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:13-65
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:23:21-62
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:13-73
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:25:13-73
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:24:23-70
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:25:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:27:7-84
+ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:28:7-84
 	android:name
-		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:27:17-81
+		ADDED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml:28:17-81
 uses-sdk
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:@react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fa9d249d56579007dba70f8ee4dd5b3f/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-network-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fa9d249d56579007dba70f8ee4dd5b3f/flipper-network-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5a1065d4748ae359265a740b2069d44b/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [com.facebook.flipper:flipper-fresco-plugin:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5a1065d4748ae359265a740b2069d44b/flipper-fresco-plugin-0.33.1/AndroidManifest.xml:11:5-13:41
+MERGED from [:react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/async-storage/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/datetimepicker/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/@react-native-community/masked-view/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-gesture-handler] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-gesture-handler/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-reanimated] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
@@ -169,72 +192,78 @@ MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchas
 MERGED from [:react-native-screens] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-splash-screen] /Users/montenegro/Documents/repo/lab/purchase_list/node_modules/react-native-splash-screen/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.react:react-native:0.61.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d10cc7560125e5507f3447a0a51e282c/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d65d911961c1533f8b84de1b0bcea965/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0-alpha02] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4a8513f31a06d4aea84afcb4fd645f35/AndroidManifest.xml:20:5-22:41
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:7:5-9:41
-MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d1c14868f2f92e19a6fa64ac0e20ec3/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b0d51955f002daafc41ccb5459503cde/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/44286fbfba6b27a20a2dd781ed6daba3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/44286fbfba6b27a20a2dd781ed6daba3/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8f35d25d318e62f86a2d098b7ba1a2fc/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8f35d25d318e62f86a2d098b7ba1a2fc/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/26416f5a8bd088b05abd7e5fd5e87fd1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/26416f5a8bd088b05abd7e5fd5e87fd1/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/591ef3b14603cac5f1f947bb92f3a42d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/591ef3b14603cac5f1f947bb92f3a42d/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/16a6101178d86717b9a006cd9cb22667/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/16a6101178d86717b9a006cd9cb22667/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e02b88c863874780440a98b6aee3ab37/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e02b88c863874780440a98b6aee3ab37/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:7:5-9:41
-MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e3b4d0ab25e99c4c08ee50d2f5a792d4/AndroidManifest.xml:7:5-9:41
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a037475c34e657e97e2e3558abd3c7ca/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.fragment:fragment:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a037475c34e657e97e2e3558abd3c7ca/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b884848f76813440716214cb0f5e6dcc/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.appcompat:appcompat-resources:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b884848f76813440716214cb0f5e6dcc/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c60e37f28dd33a924457a2f5fcae374e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c60e37f28dd33a924457a2f5fcae374e/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e8535dc163ec977e3412a79302db0e26/AndroidManifest.xml:20:5-44
-MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e8535dc163ec977e3412a79302db0e26/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/84218679209338136ccd7e0618caabe5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/84218679209338136ccd7e0618caabe5/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5efb7c6e4593fbba73ae431dc22b7495/AndroidManifest.xml:20:5-44
-MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5efb7c6e4593fbba73ae431dc22b7495/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b4a4c33b1678ed121f0816569e7445a/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.activity:activity:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b4a4c33b1678ed121f0816569e7445a/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f37f421938a2e9649dde58c17db2b622/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f37f421938a2e9649dde58c17db2b622/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9e12498f4a6598f7b9502c53ec524c49/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9e12498f4a6598f7b9502c53ec524c49/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c1138d6916f1dd90d56dce9461b20eaf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c1138d6916f1dd90d56dce9461b20eaf/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.core:core:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/071ccf19bf9831cb772fc37d0cb9faac/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/549f58c4224b62b1e348b29436e1fc67/AndroidManifest.xml:20:5-44
-MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/549f58c4224b62b1e348b29436e1fc67/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f34e09c77e598d7e5e01a879648dbf57/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f34e09c77e598d7e5e01a879648dbf57/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8e0d7a499e1f93ca77faef3c78c91493/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8e0d7a499e1f93ca77faef3c78c91493/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d8d8bfa153e7a4f96a50185cbc27018/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/9d8d8bfa153e7a4f96a50185cbc27018/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2450f77a7f0581991f054c6a9efd81fd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2450f77a7f0581991f054c6a9efd81fd/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/7e17c22e2c4b2d59b5565ce85569bc7c/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.savedstate:savedstate:1.0.0-rc01] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/7e17c22e2c4b2d59b5565ce85569bc7c/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d67d33b6fa8d06d3114fbab35c21a597/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/d67d33b6fa8d06d3114fbab35c21a597/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/77cf5decac99c73fefc2819de97c56e6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/77cf5decac99c73fefc2819de97c56e6/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/354e5f803c762d060e1a97fd3c165fc8/AndroidManifest.xml:20:5-44
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:5:5-7:41
-MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/848c9b8fa26b22469f30db432c79dfab/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/25a6f27b8feef31e45bfef4257cf18c6/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/25a6f27b8feef31e45bfef4257cf18c6/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2b7e6ebaa515cd43f42fb356f0d1941c/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/27581b0862bfc01f4eb68af799b0f2c6/android-jsc-r241213/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r241213] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/27581b0862bfc01f4eb68af799b0f2c6/android-jsc-r241213/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c180792e3f393fe4453d9c695595b3ef/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:flipper:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c180792e3f393fe4453d9c695595b3ef/flipper-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/14649b8b71802f359f24d4f29dd55d6b/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:stetho:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/14649b8b71802f359f24d4f29dd55d6b/stetho-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a682a4f61b53a5eb0b34ff17728f4b20/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a682a4f61b53a5eb0b34ff17728f4b20/soloader-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3eb43dcc83336306d77ef63b3402a327/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/edab9a506dbd8c78a6f1a18fc4eb209e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/30b4d3e32d4613db5b24cec227d0fa01/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/30b4d3e32d4613db5b24cec227d0fa01/transition-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b61b63ea7b0488553940d8a5bbdd3f9b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b61b63ea7b0488553940d8a5bbdd3f9b/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a42cfa4562601129ccc7d984c26754fb/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a42cfa4562601129ccc7d984c26754fb/activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e9872f4e302f432d4ed640cfa6c58eb6/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/4f509a65121478d6153615d7ef5b7c5f/core-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ee4a69f4f726969bc5c4f11a1f23bd91/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e7c5bbbd3975418b74df0318d1b48a49/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/e7c5bbbd3975418b74df0318d1b48a49/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/37c30db51a64ba69e51eccc8e298ccb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/37c30db51a64ba69e51eccc8e298ccb5/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/b7d3a1583ae97d0e70a1770a1993bbf1/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.2] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5452ab2653c10563317c373b5ac36def/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/5452ab2653c10563317c373b5ac36def/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
@@ -243,3 +272,7 @@ INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src
 	android:minSdkVersion
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/montenegro/Documents/repo/lab/purchase_list/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from [com.facebook.flipper:flipper:0.33.1] /Users/montenegro/.gradle/caches/transforms-2/files-2.1/192de04de6cc99c8eafc07ab62772aef/jetified-flipper-0.33.1/AndroidManifest.xml:16:22-73
