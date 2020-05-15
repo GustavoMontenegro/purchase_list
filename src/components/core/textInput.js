@@ -5,7 +5,6 @@ import PropTypes from 'prop-types';
 
 const Input = styled.TextInput`
   border: solid 1px ${({hasError}) => (hasError ? COLORS.red : COLORS.grey)};
-  border-radius: 8px;
   padding: 16px 12px;
   font-size: 18px;
   margin-top: ${({marginTop}) => marginTop}px;

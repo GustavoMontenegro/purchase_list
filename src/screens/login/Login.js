@@ -8,10 +8,18 @@ import Label from '../../components/core/Label';
 
 import {COLORS, STRINGS} from '../../config';
 
-import {Container, ContainerButton} from './style';
+import {
+  Container,
+  ContainerButton,
+  ContainerForm,
+  ContainerTitle,
+  ContainerSign,
+  Link,
+} from './style';
 
 const LoginScreen = () => {
   const [isLogin, setIsLogin] = useState(false);
+  const [values, setValues] = useState({user: '', pass: ''});
 
   const login = () => {
     if (!isLogin) {
@@ -19,11 +27,18 @@ const LoginScreen = () => {
     }
   };
 
+  const setFieldValue = (index, value) => {
+    console.log('teste');
+  };
+
   return (
     <>
       <SafeAreaView />
       <Container>
-        <Label color={COLORS.primary}>Lista de compras</Label>
+        <ContainerTitle>
+          <Label color={COLORS.primary}>Lista de compras</Label>
+        </ContainerTitle>
+        <ContainerForm />
         <ContainerButton>
           <StyledButton
             isLoading={false}
@@ -35,6 +50,9 @@ const LoginScreen = () => {
             {STRINGS.login.signIn}
           </StyledButton>
         </ContainerButton>
+        <ContainerSign>
+          <Label>Criar uma conta</Label>
+        </ContainerSign>
       </Container>
     </>
   );
