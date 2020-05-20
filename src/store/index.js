@@ -6,7 +6,6 @@ import reducers from './ducks';
 import sagas from './sagas';
 
 const sagaMiddleware = createSagaMiddleware();
-
 const middlewares = [sagaMiddleware];
 
 if (__DEV__) {
@@ -14,7 +13,6 @@ if (__DEV__) {
 }
 
 const store = createStore(reducers(), compose(applyMiddleware(...middlewares)));
-
 sagaMiddleware.run(sagas);
 
 export default store;
